@@ -1,0 +1,18 @@
+.hover-button {
+  background-color: #4CAF50; /* Tugma rangi */
+  color: white; /* Matn rangi */
+  padding: 15px 32px; /* Ichki bo'shliq */
+  text-align: center; /* Matnni markazlashtirish */
+  text-decoration: none; /* Tekstni ostiga chizish yo'q */
+  display: inline-block; /* Tugma inline blok bo'ladi */
+  font-size: 16px; /* Matn o'lchami */
+  border: none; /* Chegarasiz */
+  border-radius: 4px; /* Tugma burchaklari yumaloq */
+  cursor: pointer; /* Ko'rsatgich */
+  transition: transform 0.3s ease; /* Hover effektidagi siljish */
+}
+
+.hover-button:hover {
+  transform: scale(1.1); /* Hoverda tugmani kattalashtirish */
+  background-color: #45a049; /* Hoverdagi rang */
+}
