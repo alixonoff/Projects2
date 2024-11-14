@@ -4,7 +4,7 @@ const Fayzullo = () => {
     let img = "https://png.pngtree.com/png-vector/20240803/ourmid/pngtree-fresh-tasty-mix-fruit-salad-isolated-on-transparent-background-png-image_13366195.png"
     return (
         <>
-            <div className="container">
+            <div className="joskiy_container">
                 <div className="left">
                     <h1>Just <span>Eat healthy</span> <br />
                         food to live a <br />

@@ -7,7 +7,7 @@
     text-decoration: none;
 }
 
-.container {
+.joskiy_container {
     width: 100%;
     height: 90vh;
     display: flex;
@@ -37,7 +37,7 @@
     color: rgb(0, 221, 0);
 }
 
-.container img {
+.right img {
     width: 500px;
     filter: drop-shadow(0 0 2em gold);
 }
