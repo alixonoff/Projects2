@@ -10,10 +10,10 @@ function App() {
   return (
     <>
       <Moxista/>
-      <Murodjon/>
+     <Murodjon/>
       <Firdavs/>
       <Behruzbek/>
-      <Muhammadali/>
+      <Muhammadali/> 
 
     </>
   )
