@@ -3,7 +3,7 @@ import Murodjon from './components/Murodjon/Murodjon'
 import Firdavs from './components/Firdavs/Firdavs'
 import Muhammadali from './components/Muhammadali/Muhammadali'
 import Behruzbek from './components/Behruzbek/Behruzbek'
-import { Route, Routes } from 'react-router-dom'
+ import { Route, Routes } from 'react-router-dom'
 import Home from "./pages/Home/Home"
 import About from './pages/About/About'
 import Contact from './pages/Contact/Contact'
